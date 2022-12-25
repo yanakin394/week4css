@@ -1,0 +1,80 @@
+html {
+    background-image: url(../assets/images/gym.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Russo One', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 86px;
+    color: #FCFCFC;
+    margin-left: 100px;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+h2 {
+    font-family: 'Russo One', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 86px;
+    color: rgba(217, 213, 214, 0.99);
+    margin-left: 100px;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+h3 {
+    font-family: 'Russo One', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 86px;
+    color: rgba(217, 213, 214, 0.99);
+    margin-left: 100px;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+body {
+    margin: 10px;
+    color: gray;
+}
+
+.link {
+    color: white;
+}
+
+.link:active {
+    color: black;
+}
+
+.link:hover {
+    color: red;
+}
+
+a:visited {
+    color: gray;
+}
+
+.logo {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(208, 33, 54, 1) 35%, rgba(203, 108, 105, 1) 100%);
+    border-radius: 10px;
+}
+
+li {
+    list-style-type: none;
+    margin-top: 6px;
+}
+
+.bottommenu {
+    font-family: 'Poppins', Times, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 161.7%;
+    color: #FFFCFC;
+}
